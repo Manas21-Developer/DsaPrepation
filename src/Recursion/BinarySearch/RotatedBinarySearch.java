@@ -1,4 +1,4 @@
-package BinarySearch;
+package Recursion.BinarySearch;
 
 public class RotatedBinarySearch {
     static  int helper(int [] arr , int target , int s , int e){

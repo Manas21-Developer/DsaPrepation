@@ -1,4 +1,4 @@
-package RecursionArray;
+package Recursion.RecursionArray;
 import java.util.*;
 public class FindAllIndex {
 

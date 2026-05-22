@@ -1,4 +1,4 @@
-package RecursionArray;
+package Recursion.RecursionArray;
 
 public class LinearSearch {
     static int helper(int [] arr, int idx , int target){

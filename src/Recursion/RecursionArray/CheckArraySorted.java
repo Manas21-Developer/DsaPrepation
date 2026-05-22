@@ -1,4 +1,4 @@
-package RecursionArray;
+package Recursion.RecursionArray;
 
 public class CheckArraySorted {
     static boolean helper (int [] arr , int idx){

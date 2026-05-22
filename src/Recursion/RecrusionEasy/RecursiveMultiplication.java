@@ -1,4 +1,4 @@
-package RecrusionEasy;
+package Recursion.RecrusionEasy;
 /*
 Recursive Multiplication:
 Given two integers n and m, find their multiplication using recursion.

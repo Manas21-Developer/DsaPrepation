@@ -1,4 +1,4 @@
-package Recursion;
+package Recursion.TimePassQuestion;
 import java.util.*;
 
 public class OneToN {

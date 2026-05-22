@@ -1,4 +1,4 @@
-package String;
+package Recursion.String;
 
 public class RemoveCharacterFromString {
 

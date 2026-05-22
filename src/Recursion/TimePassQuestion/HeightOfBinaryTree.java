@@ -1,4 +1,4 @@
-package Recursion;
+package Recursion.TimePassQuestion;
 
 public class HeightOfBinaryTree {
 

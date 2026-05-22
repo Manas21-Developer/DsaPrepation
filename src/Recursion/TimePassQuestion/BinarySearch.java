@@ -1,4 +1,4 @@
-package Recursion;
+package Recursion.TimePassQuestion;
 
 public class BinarySearch {
     static int BS (int [] arr , int target , int s , int e){

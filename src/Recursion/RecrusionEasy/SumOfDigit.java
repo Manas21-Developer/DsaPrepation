@@ -1,4 +1,4 @@
-package RecrusionEasy;
+package Recursion.RecrusionEasy;
 
 public class SumOfDigit {
 
