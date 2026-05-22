@@ -1,6 +1,6 @@
 package LinkedList;
 
-public class MergeTwoSortedList {
+public class MergeTwoSortedListRecursive {
 
     // Node Class
     public static class ListNode {
@@ -60,8 +60,8 @@ public class MergeTwoSortedList {
     // Main Method
     public static void main(String[] args) {
 
-        MergeTwoSortedList obj =
-                new MergeTwoSortedList();
+        MergeTwoSortedListRecursive obj =
+                new MergeTwoSortedListRecursive();
 
         // First Linked List
         ListNode l1 = new ListNode(1);
