@@ -1,4 +1,4 @@
-package Array;
+package TwoPointer;
 
 public class SortColor {
     public static void sortColors(int[] nums) {

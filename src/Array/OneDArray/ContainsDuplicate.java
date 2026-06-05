@@ -1,4 +1,4 @@
-package Array;
+package Array.OneDArray;
 import java.util.HashSet;
 
 public class ContainsDuplicate {

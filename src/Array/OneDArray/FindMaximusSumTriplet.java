@@ -1,4 +1,4 @@
-package Array;
+package Array.OneDArray;
 
 public class FindMaximusSumTriplet {
     static int helper (int [] arr,int n){

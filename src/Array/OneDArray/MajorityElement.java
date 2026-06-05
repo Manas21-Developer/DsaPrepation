@@ -1,4 +1,4 @@
-package Array;
+package Array.OneDArray;
 
 public class MajorityElement {
     public static int majorityElement(int[] nums) {
