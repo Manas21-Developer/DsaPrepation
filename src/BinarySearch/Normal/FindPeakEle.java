@@ -1,4 +1,4 @@
-package BinarySearch;
+package BinarySearch.Normal;
 
 public class FindPeakEle {
     public static int findPeakElement(int[] nums) {

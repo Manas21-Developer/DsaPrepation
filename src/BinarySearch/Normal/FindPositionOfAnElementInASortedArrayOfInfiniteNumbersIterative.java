@@ -1,4 +1,4 @@
-package BinarySearch;
+package BinarySearch.Normal;
 
 public class FindPositionOfAnElementInASortedArrayOfInfiniteNumbersIterative {
     public static int helper(int [] arr , int target){

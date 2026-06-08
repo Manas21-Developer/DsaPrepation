@@ -1,4 +1,4 @@
-package BinarySearch;
+package BinarySearch.Normal;
 
 public class SearchInRotatedSortedArrayDuplicate {
     public static boolean search(int[] arr, int target) {

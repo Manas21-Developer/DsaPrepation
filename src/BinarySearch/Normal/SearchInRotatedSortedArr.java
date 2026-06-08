@@ -1,4 +1,4 @@
-package BinarySearch;
+package BinarySearch.Normal;
 
 public class SearchInRotatedSortedArr {
     public int search(int[] nums, int target) {
