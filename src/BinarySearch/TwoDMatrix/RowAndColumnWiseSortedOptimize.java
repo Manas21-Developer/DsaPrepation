@@ -1,6 +1,6 @@
-package BinarySearch;
+package BinarySearch.TwoDMatrix;
 
-public class TwoDMatrix {
+public class RowAndColumnWiseSortedOptimize {
     public boolean searchMatrix(int[][] matrix, int target) {
         int row = 0 ;
         int col  = matrix[0].length-1;
