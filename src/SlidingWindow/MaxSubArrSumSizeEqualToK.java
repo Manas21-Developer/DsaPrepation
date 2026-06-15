@@ -1,6 +1,6 @@
 package SlidingWindow;
 
-public class SubArrSumSizeEqualToK {
+public class MaxSubArrSumSizeEqualToK {
     public static int maxSubarraySum(int[] arr, int k) {
         int start = 0;
         int max = Integer.MIN_VALUE;
