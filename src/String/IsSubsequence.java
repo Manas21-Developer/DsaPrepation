@@ -12,7 +12,7 @@ public class IsSubsequence {
                 p1++;
             }
             p2++;
-        }return (p1 == s.length())?true :false;
+        }return p1 == s.length();
     }
 
     public static void main(String[] args) {
