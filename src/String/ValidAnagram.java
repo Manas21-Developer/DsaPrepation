@@ -1,6 +1,6 @@
 package String;
 
-public class validAnagram {
+public class ValidAnagram {
     public static boolean isAnagram(String s, String t) {
         int ns = s.length() ;
         int nt = t.length();
