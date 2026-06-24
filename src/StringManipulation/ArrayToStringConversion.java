@@ -1,3 +1,5 @@
+package StringManipulation;
+
 public class ArrayToStringConversion {
 
     public static String helper(int [] arr){
