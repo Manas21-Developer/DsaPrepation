@@ -1,3 +1,5 @@
+package Java;
+
 public class TranslationOfPoint {
         int x; int y;
 
