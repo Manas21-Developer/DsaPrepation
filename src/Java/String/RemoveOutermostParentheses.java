@@ -1,5 +1,7 @@
 package Java.String;
 
+import java.util.Stack;
+
 public class RemoveOutermostParentheses {
     public String removeOuterParentheses(String s) {
         Stack<Character> st = new Stack<>();
