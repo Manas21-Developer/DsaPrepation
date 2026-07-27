@@ -1,5 +1,5 @@
 package Array.TwoDMatrix;
-public class RotateImage {
+public class giRotateImage {
     public static void rotate(int[][] matrix) {
         // transpose
         int row = matrix.length;
